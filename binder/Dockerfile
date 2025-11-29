@@ -1,0 +1,1 @@
+FROM manimkindergarten/manim_texlive
